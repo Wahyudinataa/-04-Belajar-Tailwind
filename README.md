@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![image](https://github.com/user-attachments/assets/2e5c8c8a-729b-4717-9449-1cc91e04238a)## Laporan Praktikum
 
-## Getting Started
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  244107027012|
+| Nama |  Wahyudinata |
+| Kelas | 4K-RPL |
 
-First, run the development server:
+### TUGAS
+1. Tentang Saya <br>
+![image](https://github.com/user-attachments/assets/46fa6dbb-62c9-440e-aa92-26617076f562) <br>
+![image](https://github.com/user-attachments/assets/1e637703-ec12-4436-90fe-220f9443e80c) <br>
+![image](https://github.com/user-attachments/assets/92969143-d88f-40e6-8e43-4b84f0e9dfeb) <br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2. Proyek <br>
+![image](https://github.com/user-attachments/assets/d27455c8-9654-42d0-9914-cb188bc0f887) <br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Esai <br>
+![image](https://github.com/user-attachments/assets/8fc63d4f-1f9e-4623-b69b-b5afad69f92f)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

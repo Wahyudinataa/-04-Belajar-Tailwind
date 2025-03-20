@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e5c8c8a-729b-4717-9449-1cc91e04238a)## Laporan Praktikum
+## Laporan Praktikum
 
 |  | Pemrograman Berbasis Framework 2024 |
 |--|--|
